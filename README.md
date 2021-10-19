@@ -1,7 +1,8 @@
-# Sms-Bomber
-Mini Sms Bomber (Iranian)
+# My info
+Alisa-Alikhani
+Telegram: @Al13A_7
 
-# About
+# About sms bomber
 
 Mini SmsBomber For Iranian Number 
 
